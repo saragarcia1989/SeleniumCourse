@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44017950-b939-47f8-8289-af4e0cdbf4ce" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webdriver_java$FrameTests_testNestedFrames.ic" NAME="FrameTests.testNestedFrames Coverage Results" MODIFIED="1595885373216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>frames.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cookies/CookieTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/CookieManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#230#231#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>findElement</find>
+      <find>By</find>
+      <find>driver</find>
+      <find>Driver</find>
+      <find>by</find>
+      <find>chromedriver</find>
+      <find>new WindowManager</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/qwe.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/Excercise1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/SecureAreaPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/login/LoginTests.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/dropdown/DropdownTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ForgotPasswordPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/RetrievePasswordPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/emailSentPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/EmailSentPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/forgotPassword/ForgotPasswordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/HoversPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/hover/HoverTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/keys/SliderTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/AlertsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alerts/AlertTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/HorizontalSliderPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/FileUploadPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/ContextMenuPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/alerts/ContextMenuTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/FramesPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/NestedFramesPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/Qwe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample1Page.java" />
+        <option value="$PROJECT_DIR$/src/test/java/wait/WaitTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/DropdownPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/javaScript/JavaScriptTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/WindowManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample2Page.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/frames/FrameTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/EventReporter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/navigation/NavigationTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/keys/KeysTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pages/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/CookieManager.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cookies/CookieTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webdriver_java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webdriver_java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="webdriver_java" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.seleniumhq.selenium:selenium-chrome-driver:3.141.59" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-233" />
+    <option name="y" value="21" />
+    <option name="width" value="1110" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webdriver_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webdriver_java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1599660363865" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sarag\IdeaProjects\webdriver_java\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.CookieTest.testDeleteCookie">
+    <configuration name="AlertTests.testSetInputInAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="alerts" />
+      <option name="MAIN_CLASS_NAME" value="alerts.AlertTests" />
+      <option name="METHOD_NAME" value="testSetInputInAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookieTest.deleteCookie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cookies" />
+      <option name="MAIN_CLASS_NAME" value="cookies.CookieTest" />
+      <option name="METHOD_NAME" value="deleteCookie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CookieTest.testDeleteCookie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cookies" />
+      <option name="MAIN_CLASS_NAME" value="cookies.CookieTest" />
+      <option name="METHOD_NAME" value="testDeleteCookie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgotPasswordTest.testRetrievePassword" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forgotPassword.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="forgotPassword" />
+      <option name="MAIN_CLASS_NAME" value="forgotPassword.ForgotPasswordTest" />
+      <option name="METHOD_NAME" value="testRetrievePassword" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeysTests.testBackspace" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="webdriver_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="keys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="keys" />
+      <option name="MAIN_CLASS_NAME" value="keys.KeysTests" />
+      <option name="METHOD_NAME" value="testBackspace" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CookieTest.testDeleteCookie" />
+        <item itemvalue="TestNG.CookieTest.deleteCookie" />
+        <item itemvalue="TestNG.KeysTests.testBackspace" />
+        <item itemvalue="TestNG.AlertTests.testSetInputInAlert" />
+        <item itemvalue="TestNG.ForgotPasswordTest.testRetrievePassword" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44017950-b939-47f8-8289-af4e0cdbf4ce" name="Default Changelist" comment="" />
+      <created>1591896898557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591896898557</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 14h 57m 44s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 14h 59m 56s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 00m 51s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 02m 22s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 02m 40s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 03m 19s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 04m 17s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 04m 28s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 04m 47s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CookieTest_testDeleteCookie - 2020.09.09 at 15h 05m 21s.xml">
+      <configuration name="CookieTest.testDeleteCookie" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24832214" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.36260623" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3295302" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/alerts/FileUploadTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FileUploadPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/ContextMenuPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alerts/ContextMenuTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HoversPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+            <element signature="e#1220#1221#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/NestedFramesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#924#925#0" expanded="true" />
+            <element signature="e#971#972#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/FramesPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Qwe.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample1Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="15" column="5" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#1355#1356#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/wait/WaitTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaScript/JavaScriptTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#775#776#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/InfiniteScrollPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/LargeAndDeepDomPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/dropdown/DropdownTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/DropdownPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="36" column="77" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/WysiwygEditorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/screenshots/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/DynamicLoadingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/DynamicLoadingExample2Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="33" column="78" selection-start-line="33" selection-start-column="78" selection-end-line="33" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/javaScript/JavaScriptTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/screenshots/testNestedFrames.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver_java.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/login/LoginTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/forgotPassword/ForgotPasswordTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="16" column="67" selection-start-line="16" selection-start-column="67" selection-end-line="16" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/AlertsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#871#872#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#963#964#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1306#1307#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/alerts/AlertTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/base/Excercise1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="54" selection-start-line="26" selection-start-column="54" selection-end-line="26" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/EventReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/keys/KeysTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="76" selection-start-line="13" selection-start-column="76" selection-end-line="13" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/frames/FrameTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/MultipleWindowsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/navigation/NavigationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-849">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/WindowManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="64" column="41" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#recordFailure#0;class#BaseTest#0" />
+            <element signature="e#1774#1775#0" expanded="true" />
+            <element signature="e#1869#1870#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <element signature="e#4081#4082#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.141.59/selenium-api-3.141.59.jar!/org/openqa/selenium/Cookie.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="e#2120#2121#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="494" selection-start-line="494" selection-end-line="494" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="563" selection-start-line="563" selection-end-line="563" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-14.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="357" selection-start-line="357" selection-end-line="357" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/TestNG.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="888" selection-start-line="888" selection-end-line="888" />
+          <folding>
+            <element signature="e#32662#32663#0" expanded="true" />
+            <element signature="e#32708#32709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cookies/CookieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/CookieManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
