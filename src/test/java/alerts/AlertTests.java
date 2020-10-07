@@ -15,6 +15,7 @@ public class AlertTests extends BaseTest {
         Assert.assertEquals(alertsPage.getResult(), "You successfuly clicked an alert", "Results text incorrect");
     }
 
+
     @Test
     public void testGetTextFromAlert() {
         var alertsPage = homePage.clickJavaScriptAlerts();
